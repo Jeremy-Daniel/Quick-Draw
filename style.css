@@ -1,0 +1,21 @@
+body{
+    background-color:bisque;   
+}
+
+h1{
+    font-family: Verdana;
+    font-weight: bold;
+    color: black;
+}
+
+#modal-revealer{
+    position:absolute;
+    right: 100px;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 15px;
+}
